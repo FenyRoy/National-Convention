@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5,
   z-index: 1999;
   position: fixed;
   width: 100%;
-  background: rgba(6, 12, 34, 0.8);
+  background: rgba(6, 12, 34, 0.98);
   height: 90px;
   transition: all 0.5s; }
   .site-navbar.transparent {
